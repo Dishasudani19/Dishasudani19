@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Disha Sudani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate softwere developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishasudani19&label=Profile%20views&color=0e75b6&style=flat" alt="dishasudani19" /> </p>
 
-- 🔭 I’m currently working on **Virchumate**
+- 🔭 I’m currently working on **LMS**
 
 - 📫 How to reach me **dishasudani007@gmail.com**
 
